@@ -1,0 +1,5 @@
+Default version in the lab was .net6.0, but i changed it to 8.0
+
+in case face any issue related to the version of .net, then chenge the version in catalog.csproj or inventory.csproj file accordingly
+
+<TargetFramework>net8.0</TargetFramework>  (in this earlier version was net6.0)
